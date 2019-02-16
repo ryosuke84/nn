@@ -2,7 +2,7 @@
   "name": "@ryosuke84/nn",
   "version": "1.0.0",
   "description": "",
-  "main": "src/index.html",
+  "main": "src/index.js",
   "repository": "ryosuke84/nn",
   "scripts": {
     "start": "parcel index.html --open",
